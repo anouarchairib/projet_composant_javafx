@@ -1,0 +1,40 @@
+.titre {
+	-fx-background-color:  #25cea9;
+	-fx-text-alignment: center ;
+ 	-fx-font-family: "Century Schoolbook"; /* "Arial Narrow" ;*/
+ 	-fx-font-size: 20;
+	-fx-text-fill: #2b25cc;
+	-fx-border-style: solid ;
+	-fx-border-width: 2.0px ;
+	-fx-border-color: rgb(51,77,179);
+	
+}
+.label.text{
+	-fx-font-family: "Century Schoolbook"; /* "Arial Narrow" ;*/
+ 	-fx-font-size: 10;
+	-fx-text-fill: #2b25cc;
+}
+.text-field{
+	-fx-border-style: solid  ;
+	-fx-border-width: 1px;
+	-fx-border-color: rgb(0,0,255) ;
+}
+#btAjout{
+	-fx-background-color: darkgreen   ;
+	-fx-font-family: "Century";
+	-fx-text-fill: blue ;
+	
+}
+#AccueilComposant{
+	-fx-background-position: top ;
+	-fx-font-family: "Consolas";
+	-fx-border-width: 5px;
+	-fx-text-fill: blanchedalmond;
+	-fx-font-size: 25px;
+	-fx-underline: true;
+}
+.error{
+	-fx-border-style:solid;
+	-fx-border-width:3px;
+	-fx-border-color:red;
+}
